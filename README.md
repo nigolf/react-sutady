@@ -1,2 +1,3 @@
 # react-todo
-Created with CodeSandbox
+
+TODO リストを React で作る
